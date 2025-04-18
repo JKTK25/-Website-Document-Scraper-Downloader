@@ -1,6 +1,6 @@
 # 📄 Website Document Scraper & Downloader
 
-This Python script allows you to **scrape PDF and Word documents** (`.pdf`, `.doc`, `.docx`) from any specified website and automatically **download** them into a folder. It then **zips the files** and offers a download option — perfect for collecting learning materials, curriculum files, or documents from educational sites 📚.
+This Python script allows you to **scrape PDF and Word documents** (`.pdf`, `.doc`, `.docx`) from any specified website and automatically **download** them into a folder. It then **zips the files** and offers a download option📚.
 
 ---
 
